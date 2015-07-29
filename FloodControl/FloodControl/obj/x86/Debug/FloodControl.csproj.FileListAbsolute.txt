@@ -1,0 +1,10 @@
+D:\Libraries\Documents\Projects\FloodControl\FloodControl\FloodControl\obj\x86\Debug\FloodControl.csprojResolveAssemblyReference.cache
+D:\Libraries\Documents\Projects\FloodControl\FloodControl\FloodControl\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Libraries\Documents\Projects\FloodControl\FloodControl\FloodControl\bin\x86\Debug\FloodControl.exe
+D:\Libraries\Documents\Projects\FloodControl\FloodControl\FloodControl\bin\x86\Debug\FloodControl.pdb
+D:\Libraries\Documents\Projects\FloodControl\FloodControl\FloodControl\obj\x86\Debug\FloodControl.exe
+D:\Libraries\Documents\Projects\FloodControl\FloodControl\FloodControl\obj\x86\Debug\FloodControl.pdb
+D:\Libraries\Documents\Projects\FloodControl\FloodControl\FloodControl\bin\x86\Debug\Content\Textures\Background.xnb
+D:\Libraries\Documents\Projects\FloodControl\FloodControl\FloodControl\bin\x86\Debug\Content\Textures\Tile_Sheet.xnb
+D:\Libraries\Documents\Projects\FloodControl\FloodControl\FloodControl\bin\x86\Debug\Content\Textures\TitleScreen.xnb
+D:\Libraries\Documents\Projects\FloodControl\FloodControl\FloodControl\bin\x86\Debug\Content\Fonts\Pericles36.xnb

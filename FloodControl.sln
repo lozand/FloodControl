@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloodControl", "FloodControl\FloodControl\FloodControl.csproj", "{D1D5BA8E-3E4E-4A54-BD9D-9F82AED678E6}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "FloodControlContent", "FloodControl\FloodControlContent\FloodControlContent.contentproj", "{AC051F74-FBD7-44F2-A798-A1369DF8F8A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1D5BA8E-3E4E-4A54-BD9D-9F82AED678E6}.Debug|x86.ActiveCfg = Debug|x86
+		{D1D5BA8E-3E4E-4A54-BD9D-9F82AED678E6}.Debug|x86.Build.0 = Debug|x86
+		{D1D5BA8E-3E4E-4A54-BD9D-9F82AED678E6}.Release|x86.ActiveCfg = Release|x86
+		{D1D5BA8E-3E4E-4A54-BD9D-9F82AED678E6}.Release|x86.Build.0 = Release|x86
+		{AC051F74-FBD7-44F2-A798-A1369DF8F8A4}.Debug|x86.ActiveCfg = Debug|x86
+		{AC051F74-FBD7-44F2-A798-A1369DF8F8A4}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
